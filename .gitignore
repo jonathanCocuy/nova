@@ -1,14 +1,14 @@
-# Entorno virtual
+# Virtual environment
 venv/
 .env
 
-# Archivos temporales de audio y DB
+# Temporary audio and DB files
 nova_neural.mp3
 nova_memoria.db
 config_saludo.txt
 token.json
 credentials.json
 
-# Carpetas de Python
+# Python folders
 __pycache__/
 *.pyc
