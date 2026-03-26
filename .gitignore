@@ -1,0 +1,14 @@
+# Entorno virtual
+venv/
+.env
+
+# Archivos temporales de audio y DB
+nova_neural.mp3
+nova_memoria.db
+config_saludo.txt
+token.json
+credentials.json
+
+# Carpetas de Python
+__pycache__/
+*.pyc
